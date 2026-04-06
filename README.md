@@ -1,2 +1,1 @@
-# python
-basic of python
+print("python Programming")
